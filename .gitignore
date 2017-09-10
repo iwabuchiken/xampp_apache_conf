@@ -1,0 +1,12 @@
+extra/*
+original/*
+
+ssl*/*
+
+#charset.conv
+"httpd - \343\202\263\343\203\224\343\203\274.conf"
+#httpd.conf
+#magic
+#mime.types
+#openssl.cnf
+
